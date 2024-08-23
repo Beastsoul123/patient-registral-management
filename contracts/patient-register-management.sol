@@ -14,6 +14,8 @@ contract MedChain {
         address[] authorizedProviders;
         address[] authorizedResearchers;
     }
+
+    // Event emitted when a new patient record is created
     event NewPatientRecord(address patient, string medicalHistory);
 
     // Event emitted when a health record is updated
