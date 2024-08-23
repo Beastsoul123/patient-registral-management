@@ -14,7 +14,7 @@ MedChain is a decentralized platform that aims to revolutionize the management a
 
 ## Smart Contract Overview
 
-The MedChain platform is powered by a smart contract deployed on the Ethereum blockchain. The contract allows patients to create and manage their health records, grant or revoke access to healthcare providers, and share data with researchers.
+The MedChain platform is powered by a smart contract deployed on the Educhain. The contract allows patients to create and manage their health records, grant or revoke access to healthcare providers, and share data with researchers.
 
 ### Contract Address
 
